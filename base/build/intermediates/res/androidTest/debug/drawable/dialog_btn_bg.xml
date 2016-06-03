@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:drawable="@color/light_gray" android:state_pressed="true"></item>
-    <item android:drawable="@color/transparent"/>
-
-</selector><!-- From: file:/C:/Users/hm/Desktop/steels/base/res/drawable/dialog_btn_bg.xml --><!-- From: file:/C:/Users/hm/Desktop/steels/base/build/intermediates/bundles/debug/res/drawable/dialog_btn_bg.xml -->
